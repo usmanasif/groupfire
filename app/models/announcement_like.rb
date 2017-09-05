@@ -1,0 +1,2 @@
+class AnnouncementLike < ApplicationRecord
+end
